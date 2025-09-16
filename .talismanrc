@@ -1,6 +1,6 @@
 fileignoreconfig:
 - filename: main.py
-  checksum: e72f3f1273bf88a53f4bb41125e5e05ee8c5017b28fb3ae87b8e918cfc6cfba6
+  checksum: 91b91348d4ffb01e25d4baff50a3ac27381279d15b6e82c2eefa7732522d3d10
 - filename: README.md
   checksum: da5063c1a4a6e0ca99bd958168b04d7e77164588f1abdd7dcb0aefd0010e6067
 version: "1.0"
